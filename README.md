@@ -4,7 +4,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./examples/dataset_visualization.JPG "Visualization"
+[image1]: ./examples/dataset_visualisation.JPG "Visualization"
 [image2]: ./examples/original.JPG "Original"
 [image3]: ./examples/hist_eq.JPG "Histogram Equalization"
 [image4]: ./examples/grayscale.JPG "Grayscale"
