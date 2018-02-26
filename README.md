@@ -12,11 +12,11 @@
 [image6]: ./web_signs/09_no_passing.JPG "Traffic Sign 1"
 [image7]: ./web_signs/14_stop2.JPG "Traffic Sign 2"
 [image8]: ./web_signs/18_attention.JPG "Traffic Sign 3"
-[image7]: ./web_signs/14_stop.JPG "Traffic Sign 4"
-[image8]: ./web_signs/18_attention2.JPG "Traffic Sign 5"
-[image8]: ./web_signs/13_yield.JPG "Traffic Sign 6"
-[image7]: ./web_signs/05_80.JPG "Traffic Sign 7"
-[image8]: ./web_signs/17_noentry.JPG "Traffic Sign 8"
+[image9]: ./web_signs/14_stop.JPG "Traffic Sign 4"
+[image10]: ./web_signs/18_attention2.JPG "Traffic Sign 5"
+[image11]: ./web_signs/13_yield.JPG "Traffic Sign 6"
+[image12]: ./web_signs/05_80.JPG "Traffic Sign 7"
+[image13]: ./web_signs/17_noentry.JPG "Traffic Sign 8"
 
 ---
 ###Writeup / README
@@ -171,7 +171,7 @@ Classic LeCun-like multi-scale architecture gives a performance about 98%. But t
 Here are eight German traffic signs that I found on the web:
 
 ![alt text][image6] ![alt text][image7] ![alt text][image8] ![alt text][image9] ![alt text][image10]
-![alt text][image11] ![alt text][image12] ![alt text][image13] ![alt text][image14] ![alt text][image15]
+![alt text][image11] ![alt text][image12] ![alt text][image13] 
 
 The second image might be difficult to classify because the Stop sign is located behind objects on the first plane and point of view is unusual. 
 The fourth image might be difficult to classify because the image point of view is unusual.
